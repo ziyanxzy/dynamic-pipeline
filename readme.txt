@@ -4,7 +4,7 @@ Envs perpare:
 pip install git+https://github.com/huggingface/diffusers
 pip install transformers
 
-run run_z_image.py
+run python run.py
 
 Details:
 enable vae tiling function through interface : pipe.vae.enable_tiling()
